@@ -1,0 +1,45 @@
+#maindiv1{
+background-color: rgb(133, 199, 250);
+height: 600px;
+width: 600%;
+margin-top: 3px;
+}
+
+
+#maindiv2{
+    background-color: rgb(227, 209, 231);
+    height: 600px;
+    width: 600%;
+    padding-left: 100px;
+}
+
+
+#div2{
+    background-color: rgb(219, 246, 255);
+    width: 30%;
+    margin-top: 50px;
+}
+#div3{
+    background-color: rgb(219, 246, 255);
+    width: 30%;
+    margin-top: 50px;
+}
+#div4{
+    background-color: rgb(219, 246, 255);
+    width: 30%;
+    margin-top: 50px;
+}
+#maindiv5{
+    background-color: rgb(40, 6, 108);
+    height: 100px;
+    width: 100%;
+    margin-top: 3px;
+}
+
+#heading0{
+    color: white;
+    margin-top: 50px;
+}
+#para1{
+    color: white;
+}
